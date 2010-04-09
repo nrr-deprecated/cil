@@ -6,8 +6,8 @@ Dependencies
 Perl Modules:
 
  * Class::Accessor
- * DateTime
- * Digest (Perl core module)
+ * DateTime.pm
+ * Digest.pm (Perl core module)
  * Email::Date
  * Email::Find
  * File::Basename (Perl core module)
